@@ -3,7 +3,7 @@
 $TO = 'piyushyadav1105@gmail.com';
 
 //message the subject of the email
-$SUBJECT = '';
+$SUBJECT = 'Enter the subject of the email.';
 $MSG_SEND_ERROR = 'Sorry, we can\'t send this message.';
 
 // Sender Info
