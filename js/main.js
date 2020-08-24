@@ -313,7 +313,7 @@ jQuery(document).ready(function($) {
 
     function initializes() {
         var contentString = '<div id="gmaps">' +
-            '<img src="http://demo.flexy-codes.com/flexyblog/images/writers/staff-1.jpg" alt="" /><br />' +
+            '<img src="https://demo.flexy-codes.com/flexyblog/images/writers/staff-1.jpg" alt="" /><br />' +
             '<p style="font-family: Arial, Helvetica, sans-serif;">Yadav City, Garhi bolni road.<br /><br />Phone: +91 9996079146</p>' +
             '</div>';
 
